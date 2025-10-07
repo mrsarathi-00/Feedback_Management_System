@@ -16,5 +16,4 @@ A simple and clean web-based Feedback Management System developed using **PHP**,
 - **Backend**: PHP (MySQLi)
 - **Database**: MySQL
 
-## 📁 Project Structure
 
